@@ -1,4 +1,4 @@
-# Ahoj opravovateli (Adelko, Marto)!
+# Ahoj opravovateli (Adelko, Marto, Jirko)!
 
 # Moc me mrzi, ze odevzdavam ukol na posledni chvili a jeste k tomu nespravne. Neni mi to moc podobne. Vetsinou vse delam s predstihem, 
 # abych byla v klidu, ze je vse bez zbytecneho stresu a na cas. V pripade tohoto domaciho ukolu jsem vsak uplne v pasti, nevim si rady
